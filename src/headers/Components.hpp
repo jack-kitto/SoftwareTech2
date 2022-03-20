@@ -1,0 +1,10 @@
+void start();
+string menu();
+void clear();
+void render(string element);
+void handleInput(int* run);
+string ExitScreen();
+void readFile();
+// vector<string> separate(string data, string deliminator);
+void separate(string data, string deliminator);
+// void separate(char[] data, string deliminator);
